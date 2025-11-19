@@ -1,6 +1,6 @@
-# 🚀 Full-Stack Developer | Smart Contract Engineer
+# 🚀 Full-Stack Dev | Smart Contract Engineer
 
-**🦄 Full-S Solidity | C++ | Java | Lua | Python 🐍**
+**🦄Full-S Solidity | C++ | Java | Lua | Python🐍**
 
 ---
 
@@ -9,7 +9,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "TZDrew"
         self.role = "Full-Stack & Blockchain Developer"
         self.passion = "Building decentralized future"
         self.current_learning = ["Advanced Smart Contracts", "Web3 Security"]
