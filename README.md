@@ -1,6 +1,6 @@
-# 🚀 Full-Stack Dev | Smart Contract Engineer
+# 🚀 Full-Stack Dev | Smart Contract Eng
 
-**🦄Full-S Solidity | C++ | Java | Lua | Python🐍**
+**🦄Full-S Solidity | C++ | Java | Lua | Py🐍**
 
 ---
 
@@ -14,5 +14,5 @@ class Developer:
         self.passion = "Building decentralized future"
         self.current_learning = ["Advanced Smart Contracts", "Web3 Security"]
         
-    def say_hi(self):
+    def say_world(self):
         return "Building the future, one block at a time! 🚀"
